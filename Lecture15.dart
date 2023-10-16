@@ -13,9 +13,7 @@ void menu()
   print("Hello please subscribe");
   print("Hello please subscribe");
   print("Hello please subscribe");
-  print("Hello please subscribe");
-  print("Hello please subscribe");
-}
+ }
 
 
 void main()
