@@ -1,7 +1,8 @@
 
 
 
-// funtion to add two numbers 
+// funtion to add two 
+//umbers 
 int sum(int a,int b) {
 
  // print("The sum of two numbers is:");
